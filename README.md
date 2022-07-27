@@ -24,3 +24,5 @@ Table personalities:  <code>ADD FULLTEXT `personalities_ft_index` (`name`)</code
 Table practical_skills:  <code>ADD FULLTEXT `practical_skills_ft_index` (`name`)</code><br />
 
 3. Optimize a lot of join table with Union Distinct
+
+Improve SQL Query : improve-sql-test.sql 
